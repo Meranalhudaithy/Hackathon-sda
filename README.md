@@ -32,10 +32,8 @@ Efficiency — how fast your search works on large datasets.
 Challenge 2 – Decryption Puzzle
 You are given the following encoded string:
 
-nginx
-Copy
-Edit
 Qm5tZnF6c3RrenNobm1yISBYbnQgZ3p1ZCBicXpiamRjIHNnZCBiaG9nZHEu
+
 This string was encrypted in two steps:
 
 A Caesar cipher shift was applied to the original text.
@@ -51,22 +49,12 @@ Clearly document your approach.
 Challenge 3 – Boolean Simplification
 You are given the Boolean expression:
 
-css
-Copy
-Edit
 ((A and not B) or (not A and C and not B) or (A and C and not B) or (not B and not C) or ((A or C) and not B) or (not A and not B))
 Your task:
 
 Simplify this expression into its simplest form.
 
 Provide the simplified Boolean expression and explain why it is equivalent.
-
-📏 Scoring
-Correctness (Primary)
-
-Efficiency (Secondary, higher ranking for better Big O complexity where applicable)
-
-Code clarity (Readable, maintainable, well-commented)
 
 📜 Rules
 You may use any programming language.
